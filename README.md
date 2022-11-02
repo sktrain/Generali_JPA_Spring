@@ -1,8 +1,7 @@
-# telekom_jpa_spring
+# Generali_jpa_spring
 
 Materialien zum Training:
 - HR-Schema.pdf ----   Datenbank-Sample-Schema
-- handouts_jpa ---- Folien-Handouts
 - h2.zip ----     Skripte zum Anlegen des Datenbank-Schemas
 
 
